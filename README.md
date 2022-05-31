@@ -1,7 +1,7 @@
 <h1>Recriando a interface do instagram (instadev)<h1/>
   
-  <p> Aqui está mais um projetinho criando a interface do instagram, resolvi dar meu toque dev kk 
-bootcamp do Santander ministrado pela DIO <p/>
+  <h5> Aqui está mais um projetinho criando a interface do instagram, resolvi dar meu toque dev kk 
+bootcamp do Santander ministrado pela DIO </h5>
   
   <h2>Estudos<h2/>
     
